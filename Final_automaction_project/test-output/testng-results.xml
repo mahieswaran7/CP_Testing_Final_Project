@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="19" passed="17" failed="2" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-15T23:20:25 IST" name="Default suite" finished-at="2024-07-15T23:23:59 IST" duration-ms="213598">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Step_Defenaction.cucumber_test_runner@313b2ea6]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2024-07-15T23:20:25 IST" name="Default test" finished-at="2024-07-15T23:23:59 IST" duration-ms="213598">
+      <class name="Step_Defenaction.cucumber_test_runner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:Step_Defenaction.cucumber_test_runner@313b2ea6]" started-at="2024-07-15T23:20:25 IST" name="setUpClass" finished-at="2024-07-15T23:20:26 IST" duration-ms="560" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1ad1b737]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Step_Defenaction.cucumber_test_runner@313b2ea6]" started-at="2024-07-15T23:20:26 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-15T23:20:32 IST" duration-ms="6089" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["check login successful with valid credentials by using (parameterize method)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["login Pgae automaction for Organice_website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Step_Defenaction.cucumber_test_runner@313b2ea6]" started-at="2024-07-15T23:20:32 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-15T23:20:37 IST" duration-ms="5347" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["check login successful with valid credentials by using (parameterize method)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["login Pgae automaction for Organice_website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Step_Defenaction.cucumber_test_runner@313b2ea6]" started-at="2024-07-15T23:20:37 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-15T23:20:43 IST" duration-ms="5484" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["check login successful with valid credentials by using (parameterize method)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["login Pgae automaction for Organice_website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Step_Defenaction.cucumber_test_runner@313b2ea6]" started-at="2024-07-15T23:20:43 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-15T23:20:48 IST" duration-ms="5407" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["check login successful with valid credentials by using (parameterize method)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["login Pgae automaction for Organice_website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Step_Defenaction.cucumber_test_runner@313b2ea6]" started-at="2024-07-15T23:20:48 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-15T23:20:54 IST" duration-ms="5873" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["check login successful with valid credentials by using (parameterize method)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["login Pgae automaction for Organice_website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Step_Defenaction.cucumber_test_runner@313b2ea6]" started-at="2024-07-15T23:20:54 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-15T23:21:00 IST" duration-ms="5588" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["check login successful with valid credentials by using (parameterize method)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["login Pgae automaction for Organice_website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Step_Defenaction.cucumber_test_runner@313b2ea6]" started-at="2024-07-15T23:21:00 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-15T23:21:05 IST" duration-ms="5502" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["check login successful with valid credentials by using (parameterize method)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["login Pgae automaction for Organice_website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Step_Defenaction.cucumber_test_runner@313b2ea6]" started-at="2024-07-15T23:21:05 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-15T23:21:11 IST" duration-ms="5541" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["check login successful with valid credentials by using (parameterize method)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["login Pgae automaction for Organice_website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Step_Defenaction.cucumber_test_runner@313b2ea6]" started-at="2024-07-15T23:21:11 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-15T23:21:16 IST" duration-ms="5627" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["check login successful with valid credentials by using (parameterize method)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["login Pgae automaction for Organice_website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Step_Defenaction.cucumber_test_runner@313b2ea6]" started-at="2024-07-15T23:21:16 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-15T23:21:22 IST" duration-ms="5384" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["check login successful with valid credentials by using (parameterize method)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["login Pgae automaction for Organice_website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Step_Defenaction.cucumber_test_runner@313b2ea6]" started-at="2024-07-15T23:21:22 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-15T23:21:27 IST" duration-ms="4661" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["check login successful with valid credentials by using (parameterize method)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["login Pgae automaction for Organice_website"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.UnhandledAlertException">
+            <message>
+              <![CDATA[Unexpected alert dialog detected. Performed handler "dismiss": 
+Build info: version: '4.22.0', revision: 'c5f3146703'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4a288719-4699-498b-a36d-74ee2c98a0d9, findElements {value=//p[normalize-space()='CartItems-(0)'], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 128.0, moz:accessibilityChecks: false, moz:buildID: 20240704121409, moz:debuggerAddress: 127.0.0.1:37650, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 17752, moz:profile: C:\Users\basil\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:37650/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 4a288719-4699-498b-a36d-74ee2c98a0d9]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.UnhandledAlertException: Unexpected alert dialog detected. Performed handler "dismiss": 
+Build info: version: '4.22.0', revision: 'c5f3146703'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [4a288719-4699-498b-a36d-74ee2c98a0d9, findElements {value=//p[normalize-space()='CartItems-(0)'], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 128.0, moz:accessibilityChecks: false, moz:buildID: 20240704121409, moz:debuggerAddress: 127.0.0.1:37650, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 17752, moz:profile: C:\Users\basil\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:37650/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 4a288719-4699-498b-a36d-74ee2c98a0d9
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:136)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElements(ElementLocation.java:182)
+at org.openqa.selenium.remote.ElementLocation.findElements(ElementLocation.java:103)
+at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:368)
+at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:362)
+at Step_Defenaction.login_step.user_is_navigated_to_the_home_page(login_step.java:50)
+at ✽.user is navigated to the home page(file:///D:/testing_changepond_training/Final_project_automaction_testing/FinalTesting/tsting_final_assignment/Final_automaction_project/src/test/resources/Features/login.feature:11)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.UnhandledAlertException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Step_Defenaction.cucumber_test_runner@313b2ea6]" started-at="2024-07-15T23:21:27 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-15T23:21:48 IST" duration-ms="21555" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["checking signup page for 3 users  by using (parameterize method)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["login Pgae automaction for Organice_website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Step_Defenaction.cucumber_test_runner@313b2ea6]" started-at="2024-07-15T23:21:48 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-15T23:22:09 IST" duration-ms="21292" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["checking signup page for 3 users  by using (parameterize method)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["login Pgae automaction for Organice_website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Step_Defenaction.cucumber_test_runner@313b2ea6]" started-at="2024-07-15T23:22:09 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-15T23:22:31 IST" duration-ms="21198" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["checking signup page for 3 users  by using (parameterize method)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["login Pgae automaction for Organice_website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Step_Defenaction.cucumber_test_runner@313b2ea6]" started-at="2024-07-15T23:22:31 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-15T23:22:44 IST" duration-ms="13718" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["checking admin login  by using (parameterize method)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["login Pgae automaction for Organice_website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Step_Defenaction.cucumber_test_runner@313b2ea6]" started-at="2024-07-15T23:22:44 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-15T23:22:59 IST" duration-ms="14248" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["checking admin login  by using (parameterize method)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["login Pgae automaction for Organice_website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Step_Defenaction.cucumber_test_runner@313b2ea6]" started-at="2024-07-15T23:22:59 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-15T23:23:12 IST" duration-ms="13957" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["checking admin login  by using (parameterize method)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["login Pgae automaction for Organice_website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Step_Defenaction.cucumber_test_runner@313b2ea6]" started-at="2024-07-15T23:23:12 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-15T23:23:50 IST" duration-ms="37625" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Check Admin page is successful with valid credentials by using (pom function)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["login Pgae automaction for Organice_website"]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[TypeError: browsingContext.currentWindowGlobal is null
+Build info: version: '4.22.0', revision: 'c5f3146703'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [8d70c755-a44d-4678-ba2a-5f2444507783, findElement {value=//a[@href='/Maindashboard'], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 128.0, moz:accessibilityChecks: false, moz:buildID: 20240704121409, moz:debuggerAddress: 127.0.0.1:10342, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 20996, moz:profile: C:\Users\basil\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:10342/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 8d70c755-a44d-4678-ba2a-5f2444507783]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: TypeError: browsingContext.currentWindowGlobal is null
+Build info: version: '4.22.0', revision: 'c5f3146703'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [8d70c755-a44d-4678-ba2a-5f2444507783, findElement {value=//a[@href='/Maindashboard'], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 128.0, moz:accessibilityChecks: false, moz:buildID: 20240704121409, moz:debuggerAddress: 127.0.0.1:10342, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 20996, moz:profile: C:\Users\basil\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://127.0.0.1:10342/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+Session ID: 8d70c755-a44d-4678-ba2a-5f2444507783
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+at PageObject.SignIn.productsback(SignIn.java:64)
+at Step_Defenaction.POMDesignOrganicStep.user_click_on_back_button(POMDesignOrganicStep.java:94)
+at ✽.User click on back button(file:///D:/testing_changepond_training/Final_project_automaction_testing/FinalTesting/tsting_final_assignment/Final_automaction_project/src/test/resources/Features/login.feature:119)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:Step_Defenaction.cucumber_test_runner@313b2ea6]" started-at="2024-07-15T23:23:50 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-07-15T23:23:59 IST" duration-ms="8863" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Check login is successful with valid credentials by using (page Factory)"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["login Pgae automaction for Organice_website"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:Step_Defenaction.cucumber_test_runner@313b2ea6]" started-at="2024-07-15T23:23:59 IST" name="tearDownClass" finished-at="2024-07-15T23:23:59 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- Step_Defenaction.cucumber_test_runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
